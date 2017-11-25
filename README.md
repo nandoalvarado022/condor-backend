@@ -1,4 +1,4 @@
-# RESTful API con NODE JS para test web developer backend CONDOR LABS
+# test API REST con NODE JS para web developer backend CONDOR LABS
 
 ### GET `/api/items` 
 Obtener todos los items
