@@ -1,32 +1,10 @@
-# RESTful API with Node.js, Express.js, Mongoose and MongoDB.
+# RESTful API con NODE JS para test web developer backend
 
-Example of a RESTful API built with Node.js, Express.js, Mongoose and MongoDB.
-
-## RESTful API endpoints
-
-### GET `/api/items`
-
+### GET `/api/items` 
 Get all items.
 
-+ Method: `GET`
-+ URL: `/api/items`
-
 ### POST `/api/items`
-
 Create a new item.
-
-+ Method: `POST`
-+ URL: `/api/items`
-+ Body:
-
-```js
-{
-  "id": "1",
-  "name": "React.js Essentials",
-  "description": "A fast-paced guide to designing and building scalable and maintainable web apps with React.js.",
-  "quantity": "10"
-}
-```
 
 ### GET `/api/items/:itemId`
 
