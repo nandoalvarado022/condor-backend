@@ -15,8 +15,8 @@ Actualizar item
 ### DELETE `/api/items/:itemId`
 Eliminar un item
 
-Para instalar:
-
+Instalar
 `npm install`
 
-## Run
+Ejecutar
+`node app.js`
